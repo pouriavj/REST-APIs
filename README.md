@@ -5,4 +5,4 @@ A simple page that uses all of the HTTP requests to GET, POST, PUT, PATCH and DE
 
 ### Page screen shot:
 
-![home page](https://github.com/pouriavj/API-Axios/blob/main/boredActivity.jpg?raw=true)
+![home page](https://github.com/pouriavj/REST-APIs/blob/main/REST-APIs.jpg?raw=true)
