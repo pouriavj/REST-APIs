@@ -38,3 +38,13 @@ This is a full-stack project combining **Back-end + Front-end**, created as part
 1. Install dependencies:
    ```bash
    npm install
+   ```
+2. Start the server:
+   ```bash
+   node index.js
+   ```
+3. Open http://localhost:3000 in your browser.
+(You can change the port in `index.js` by modifying `const port = 3000;`)
+
+---
+
