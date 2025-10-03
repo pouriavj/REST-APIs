@@ -47,4 +47,12 @@ This is a full-stack project combining **Back-end + Front-end**, created as part
 (You can change the port in `index.js` by modifying `const port = 3000;`)
 
 ---
+## 🔑 Authentication
+
+This project requires a **Bearer Token** for authorization.  
+Replace the value of `yourBearerToken` in `index.js` with your own token:
+
+```js
+const yourBearerToken = "your-token-here";
+```
 
