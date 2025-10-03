@@ -15,15 +15,14 @@ This is a full-stack project combining **Back-end + Front-end**, created as part
 - Dynamic rendering with **EJS** templates  
 
 ---
+## 🔑 Authentication
 
-## 🛠️ Built With
+This project requires a **Bearer Token** for authorization.  
+Replace the value of `yourBearerToken` in `index.js` with your own token:
 
-- [Node.js](https://nodejs.org/)  
-- [Express.js](https://expressjs.com/)  
-- [EJS](https://ejs.co/) – templating engine  
-- [Axios](https://axios-http.com/) – for HTTP requests  
-- [Body-parser](https://www.npmjs.com/package/body-parser) – to handle form submissions  
-- HTML5 / CSS3  
+```js
+const yourBearerToken = "your-token-here";
+```
 
 ---
 
@@ -47,12 +46,14 @@ This is a full-stack project combining **Back-end + Front-end**, created as part
 (You can change the port in `index.js` by modifying `const port = 3000;`)
 
 ---
-## 🔑 Authentication
 
-This project requires a **Bearer Token** for authorization.  
-Replace the value of `yourBearerToken` in `index.js` with your own token:
+## 🛠️ Built With
 
-```js
-const yourBearerToken = "your-token-here";
-```
+- [Node.js](https://nodejs.org/)  
+- [Express.js](https://expressjs.com/)  
+- [EJS](https://ejs.co/) – templating engine  
+- [Axios](https://axios-http.com/) – for HTTP requests  
+- [Body-parser](https://www.npmjs.com/package/body-parser) – to handle form submissions  
+- HTML5 / CSS3  
+
 
