@@ -49,11 +49,15 @@ const yourBearerToken = "your-token-here";
 
 ## 🛠️ Built With
 
+### Core Tech
 - [Node.js](https://nodejs.org/)  
 - [Express.js](https://expressjs.com/)  
 - [EJS](https://ejs.co/) – templating engine  
+- HTML5 / CSS3  
+
+### Additional Libraries
 - [Axios](https://axios-http.com/) – for HTTP requests  
 - [Body-parser](https://www.npmjs.com/package/body-parser) – to handle form submissions  
-- HTML5 / CSS3  
+- [JSON](https://www.json.org/json-en.html) – data format used for API responses  
 
 
